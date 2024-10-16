@@ -32,9 +32,9 @@ public class ExtentReportManager {
 
         try {
             String reportPath = TestConstants.REPORT_PATH;
-            String recipientEmail = "astar@golden1.com";  // Replace with recipient email
-            String senderEmail = "916testuser2024@gmail.com";          // Your email (sender)
-            String senderPassword = "oeea okir uhfq fnis";        // Your email password (or app-specific password)
+            String recipientEmail = "REPLACE";  // Replace with recipient email
+            String senderEmail = "REPLACE";          // Your email (sender)
+            String senderPassword = "REPLACE";        // Your email password (or app-specific password)
             String subject = "TestNG Suite Emailable Report";
             String body = "Please find the attached report summarizing all test executions from the Golden1.com suite.";
 
